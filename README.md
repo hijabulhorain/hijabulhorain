@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hijabulhorain&label=Profile%20views&color=0e75b6&style=flat" alt="hijabulhorain" /> </p>
 
-- 🔭 I’m currently working on **C++ and Open sources projects**
-
-- 🌱 I’m currently learning **Computer Programming**
-
 - 👨‍💻 All of my projects are available at [https://github.com/hijabulhorain/hijabulhorain.git](https://github.com/hijabulhorain/hijabulhorain.git)
 
 - 📫 How to reach me **hijabzafar737@gmail.com**
